@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediaesex01tereuoft_0001.png"; bbox 0 0 1664 3198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 351 324 465 999">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 351 324 465 999">
+     <span class='ocr_line' id='line_1_1' title="bbox 351 324 465 999; baseline 54 -648"><span class='ocrx_word' id='word_1_1' title='bbox 351 324 465 718; x_wconf 57' lang='grc' dir='ltr'>ωωωωωωῗο</span> <span class='ocrx_word' id='word_1_2' title='bbox 359 778 408 911; x_wconf 58' lang='grc' dir='ltr'>-ωῗ</span> <span class='ocrx_word' id='word_1_3' title='bbox 362 972 411 999; x_wconf 73' lang='lat' dir='ltr'>m</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 227 335 354 972">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 227 335 354 972">
+     <span class='ocr_line' id='line_1_2' title="bbox 227 335 354 972; baseline 79.625 -796.25"><span class='ocrx_word' id='word_1_4' title='bbox 227 335 346 483; x_wconf 58' lang='grc' dir='ltr'><em>,ΖΞ-ἒ-</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 229 525 348 548; x_wconf 84' lang='lat'>=</span> <span class='ocrx_word' id='word_1_6' title='bbox 230 583 348 626; x_wconf 61' lang='grc' dir='ltr'>Ξ,</span> <span class='ocrx_word' id='word_1_7' title='bbox 234 844 354 972; x_wconf 54' lang='grc' dir='ltr'>ἐξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 201 452 227 865">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 201 452 227 865">
+     <span class='ocr_line' id='line_1_3' title="bbox 201 452 227 865; baseline 50.5 -413"><span class='ocrx_word' id='word_1_8' title='bbox 201 452 222 597; x_wconf 46' lang='grc' dir='ltr'>ΑΞΖΟΚΟ»</span> <span class='ocrx_word' id='word_1_9' title='bbox 203 626 224 661; x_wconf 50' lang='grc' dir='ltr'>μῦ</span> <span class='ocrx_word' id='word_1_10' title='bbox 204 686 227 865; x_wconf 57' lang='grc' dir='ltr'>&gt;ΞωΠωΞΖΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 172 244 458 1064">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 172 244 458 1064">
+     <span class='ocr_line' id='line_1_4' title="bbox 172 244 458 1064"><span class='ocrx_word' id='word_1_11' title='bbox 172 244 458 1064; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
